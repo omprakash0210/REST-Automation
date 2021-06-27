@@ -1,0 +1,16 @@
+backports.functools-lru-cache==1.6.4
+certifi==2021.5.30
+chardet==4.0.0
+click==7.1.2
+Flask==1.1.4
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+prettytable==1.0.1
+PyYAML==5.4.1
+requests==2.25.1
+urllib3==1.26.6
+wcwidth==0.2.5
+Werkzeug==1.0.1
+inquirer~=2.7.0

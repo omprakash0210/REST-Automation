@@ -1,0 +1,12 @@
+---
+- api_name: Launch
+  url: http://127.0.0.1:5002/
+  method_type: GET
+  expected_response_code: 200
+  actual_reposne_code: NA
+
+- api_name: Login
+  url: http://127.0.0.1:5002/login
+  method_type: POST
+  expected_response_code: 200
+  actual_reposne_code: 201
