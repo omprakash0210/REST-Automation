@@ -5,7 +5,7 @@ pipeline {
     }
 
    agent {
-       None
+       any
    }
 
    parameters{
